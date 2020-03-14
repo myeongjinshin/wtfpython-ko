@@ -44,7 +44,7 @@
     + [▶ 실행되는 시간의 차이](#-무엇을-위해서for)
     + [▶ How not to use `is` operator](#-how-not-to-use-is-operator)
     + [▶ `is not ...` is not `is (not ...)`](#-is-not--is-not-is-not-)
-    + [▶ X가 첫 번째 시도에서 승리하는 틱택토!](#-a-tic-tac-toe-where-x-wins-in-the-first-attempt)
+    + [▶ X가 첫 번째 시도에서 승리하는 틱택토!](#-X가-첫-번째-시도에서-승리하는-틱택토!)
     + [▶ The sticky output function](#-the-sticky-output-function)
     + [▶ The chicken-egg problem *](#-the-chicken-egg-problem-)
     + [▶ Subclass relationships](#-subclass-relationships)
